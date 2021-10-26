@@ -37,45 +37,45 @@
             "filename": "povidani_o_pejskovi_a_kocicce_001.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_002.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_003.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_004.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_005.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_005.html",
             "id": 4,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -85,7 +85,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_007.md",
@@ -94,7 +95,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "O\npejskovi a kočičce,\njak si myli podlahu"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_008.md",
@@ -184,7 +186,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak si pejsek roztrhl kaťata"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_018.md",
@@ -283,7 +286,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak pejsek s kočičkou\nslavili 28. říjen"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_029.md",
@@ -364,7 +368,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak to bylo na Vánoce"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_038.md",
@@ -445,7 +450,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "O pejskovi a kočičce,\njak psali psaní děvčatům do Nymburka"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_047.md",
@@ -526,7 +532,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "O pyšné noční košilce"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_056.md",
@@ -625,7 +632,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "O klucích z Domažlic"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_067.md",
@@ -706,7 +714,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak si pejsek s kočičkou\ndělali k svátku dort"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_076.md",
@@ -805,7 +814,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak našli panenku,\nkterá tence plakala"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_087.md",
@@ -886,7 +896,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak hráli divadlo\na na Mikuláše co bylo"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_096.md",
@@ -967,7 +978,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_105.md",
@@ -976,7 +988,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Život\na doba spisovatele\nJosefa Čapka v datech"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_106.md",
@@ -985,15 +998,16 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "První\nvydání knih Josefa Čapka"
           },
           {
             "filename": "povidani_o_pejskovi_a_kocicce_107.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_107.html",
             "id": 106,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -1006,7 +1020,7 @@
       "identifier": "0c5a8574-dc6e-4eae-bc4b-2ea79d680e80",
       "author": "Josef Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-26T08:36:32.888Z"
+      "modified": "2021-10-26T08:41:54.130Z"
     },
     "chapters": [
       {
@@ -1914,6 +1928,6 @@
       "user": "books-are-next",
       "repo": "povidani-o-pejskovi-a-kocicce"
     },
-    "generatedAt": 1635237393768
+    "generatedAt": 1635237714978
   }
 }
