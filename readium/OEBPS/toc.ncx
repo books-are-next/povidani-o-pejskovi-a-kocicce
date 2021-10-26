@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="0c5a8574-dc6e-4eae-bc4b-2ea79d680e80" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Povídání o pejskovi a kočičce</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>O pejskovi a kočičce, jak si myli podlahu</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Jak si pejsek roztrhl kaťata</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Jak pejsek s kočičkou slavili 28. říjen</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Jak to bylo na Vánoce</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>O pejskovi a kočičce, jak psali psaní děvčatům do Nymburka</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_046.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>O pyšné noční košilce</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_055.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>O klucích z Domažlic</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_066.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Jak si pejsek s kočičkou dělali k svátku dort</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_075.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Jak našli panenku, která tence plakala</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_086.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Jak hráli divadlo a na Mikuláše co bylo</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_095.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_104.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Život a doba spisovatele Josefa Čapka v datech</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_105.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>První vydání knih Josefa Čapka</text>
+      </navLabel>
+      <content src="Text/povidani_o_pejskovi_a_kocicce_106.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
