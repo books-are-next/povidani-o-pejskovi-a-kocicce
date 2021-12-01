@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Povídání o pejskovi a kočičce",
@@ -7,7 +8,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-26T08:24:07.450Z",
       "subtitle": ",jak spolu hospodařili a ještě o všelijakých jiných věcech",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -37,7 +40,7 @@
             "filename": "povidani_o_pejskovi_a_kocicce_001.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_001.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1931,3 +1934,4 @@
     "generatedAt": 1635237393768
   }
 }
+
