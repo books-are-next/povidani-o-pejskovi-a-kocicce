@@ -10,8 +10,9 @@ meta:
   modified: '2021-10-26T08:24:07.450Z'
   subtitle: ',jak spolu hospodařili a ještě o všelijakých jiných věcech'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - povidani_o_pejskovi_a_kocicce_001.html
   - povidani_o_pejskovi_a_kocicce_002.html
   - povidani_o_pejskovi_a_kocicce_005.html
   - povidani_o_pejskovi_a_kocicce_006.html
