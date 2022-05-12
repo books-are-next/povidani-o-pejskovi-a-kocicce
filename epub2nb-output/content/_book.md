@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Povídání o pejskovi a kočičce
@@ -13,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - povidani_o_pejskovi_a_kocicce_002.html
+  - promo.html
   - povidani_o_pejskovi_a_kocicce_005.html
   - povidani_o_pejskovi_a_kocicce_006.html
   - povidani_o_pejskovi_a_kocicce_007.html

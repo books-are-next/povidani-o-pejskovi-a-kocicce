@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Co se strojili, brali si na sebe svetry, zimní kabáty, vlňáky, kamaše a sněhovky, začal pejsek počichávat a povídá kočičce: „Tak tu krásně voní syreček, jak ho máme tamhle na polici schovaný, já bych ti měl na něj takovou ukrutnou chuť!“

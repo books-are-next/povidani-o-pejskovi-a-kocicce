@@ -1,7 +1,6 @@
 ---
-title: |-
-  Jak našli panenku,
-  která tence plakala
+title: Jak našli panenku, která tence plakala
+contentType: prose
 ---
 
 Jednou celý den pršelo, všude bylo mokro a studeno a pejsek s kočičkou nemohli ven a neměli co dělat. A tak si povídali.

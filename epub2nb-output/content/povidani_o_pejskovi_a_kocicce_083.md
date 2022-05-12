@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Tak pojď,“ řekl pejsek, „půjdeme ty děti pozvat.“ Vzali se za ručičky a šli ty děti pozvat. Děti byly v zahrádce před domem a hrály si tam s kuličkami. Pejsek s kočičkou je pozvali na dort a chvíli si s nimi pohráli s kuličkami a potom ještě s míčem a trochu s kostkami.

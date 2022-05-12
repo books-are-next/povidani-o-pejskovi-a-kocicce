@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A to tam zároveň napište, aby taky kočkám nešlapaly na tlapičky a netahaly je za ouška,“ připojila se kočka, „nás to taky bolí, zrovna tak jako psy.“ – „A pejsky ať taky netahají za ocas, to my také nemáme rádi,“ řekl pes. „Tak teď to všechno napište a dejte nám něco za dobrou radu.“

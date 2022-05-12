@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ať si s ní ta chudá košilka hraje!“ řekl pejsek kočičce. „Ať si s ní hraje a není taky pyšná, když tamta byla pyšná a nechtěla si s ní hrát!“

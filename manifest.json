@@ -1,22 +1,130 @@
 {
-  "author": "Josef Čapek",
-  "edition": "beletrie",
-  "identifier": "capek-povidani-o-pejskovi-a-kocicce-34c132b",
-  "languagecode": "cs",
-  "modified": "2021-10-26T08:24:07.450Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
-  "subtitle": ",jak spolu hospodařili a ještě o všelijakých jiných věcech",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Povídání o pejskovi a kočičce",
-  "revision": "34c132b",
+  "subtitle": ",jak spolu hospodařili a ještě o všelijakých jiných věcech",
+  "author": "Josef Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-povidani-o-pejskovi-a-kocicce-5fa3497",
+  "revision": "5fa3497",
+  "readingOrder": [
+    "promo.html",
+    "povidani_o_pejskovi_a_kocicce_005.html",
+    "povidani_o_pejskovi_a_kocicce_006.html",
+    "povidani_o_pejskovi_a_kocicce_007.html",
+    "povidani_o_pejskovi_a_kocicce_008.html",
+    "povidani_o_pejskovi_a_kocicce_009.html",
+    "povidani_o_pejskovi_a_kocicce_010.html",
+    "povidani_o_pejskovi_a_kocicce_011.html",
+    "povidani_o_pejskovi_a_kocicce_012.html",
+    "povidani_o_pejskovi_a_kocicce_013.html",
+    "povidani_o_pejskovi_a_kocicce_014.html",
+    "povidani_o_pejskovi_a_kocicce_015.html",
+    "povidani_o_pejskovi_a_kocicce_016.html",
+    "povidani_o_pejskovi_a_kocicce_017.html",
+    "povidani_o_pejskovi_a_kocicce_018.html",
+    "povidani_o_pejskovi_a_kocicce_019.html",
+    "povidani_o_pejskovi_a_kocicce_020.html",
+    "povidani_o_pejskovi_a_kocicce_021.html",
+    "povidani_o_pejskovi_a_kocicce_022.html",
+    "povidani_o_pejskovi_a_kocicce_023.html",
+    "povidani_o_pejskovi_a_kocicce_024.html",
+    "povidani_o_pejskovi_a_kocicce_025.html",
+    "povidani_o_pejskovi_a_kocicce_026.html",
+    "povidani_o_pejskovi_a_kocicce_027.html",
+    "povidani_o_pejskovi_a_kocicce_028.html",
+    "povidani_o_pejskovi_a_kocicce_029.html",
+    "povidani_o_pejskovi_a_kocicce_030.html",
+    "povidani_o_pejskovi_a_kocicce_031.html",
+    "povidani_o_pejskovi_a_kocicce_032.html",
+    "povidani_o_pejskovi_a_kocicce_033.html",
+    "povidani_o_pejskovi_a_kocicce_034.html",
+    "povidani_o_pejskovi_a_kocicce_035.html",
+    "povidani_o_pejskovi_a_kocicce_036.html",
+    "povidani_o_pejskovi_a_kocicce_037.html",
+    "povidani_o_pejskovi_a_kocicce_038.html",
+    "povidani_o_pejskovi_a_kocicce_039.html",
+    "povidani_o_pejskovi_a_kocicce_040.html",
+    "povidani_o_pejskovi_a_kocicce_041.html",
+    "povidani_o_pejskovi_a_kocicce_042.html",
+    "povidani_o_pejskovi_a_kocicce_043.html",
+    "povidani_o_pejskovi_a_kocicce_044.html",
+    "povidani_o_pejskovi_a_kocicce_045.html",
+    "povidani_o_pejskovi_a_kocicce_046.html",
+    "povidani_o_pejskovi_a_kocicce_047.html",
+    "povidani_o_pejskovi_a_kocicce_048.html",
+    "povidani_o_pejskovi_a_kocicce_049.html",
+    "povidani_o_pejskovi_a_kocicce_050.html",
+    "povidani_o_pejskovi_a_kocicce_051.html",
+    "povidani_o_pejskovi_a_kocicce_052.html",
+    "povidani_o_pejskovi_a_kocicce_053.html",
+    "povidani_o_pejskovi_a_kocicce_054.html",
+    "povidani_o_pejskovi_a_kocicce_055.html",
+    "povidani_o_pejskovi_a_kocicce_056.html",
+    "povidani_o_pejskovi_a_kocicce_057.html",
+    "povidani_o_pejskovi_a_kocicce_058.html",
+    "povidani_o_pejskovi_a_kocicce_059.html",
+    "povidani_o_pejskovi_a_kocicce_060.html",
+    "povidani_o_pejskovi_a_kocicce_061.html",
+    "povidani_o_pejskovi_a_kocicce_062.html",
+    "povidani_o_pejskovi_a_kocicce_063.html",
+    "povidani_o_pejskovi_a_kocicce_064.html",
+    "povidani_o_pejskovi_a_kocicce_065.html",
+    "povidani_o_pejskovi_a_kocicce_066.html",
+    "povidani_o_pejskovi_a_kocicce_067.html",
+    "povidani_o_pejskovi_a_kocicce_068.html",
+    "povidani_o_pejskovi_a_kocicce_069.html",
+    "povidani_o_pejskovi_a_kocicce_070.html",
+    "povidani_o_pejskovi_a_kocicce_071.html",
+    "povidani_o_pejskovi_a_kocicce_072.html",
+    "povidani_o_pejskovi_a_kocicce_073.html",
+    "povidani_o_pejskovi_a_kocicce_074.html",
+    "povidani_o_pejskovi_a_kocicce_075.html",
+    "povidani_o_pejskovi_a_kocicce_076.html",
+    "povidani_o_pejskovi_a_kocicce_077.html",
+    "povidani_o_pejskovi_a_kocicce_078.html",
+    "povidani_o_pejskovi_a_kocicce_079.html",
+    "povidani_o_pejskovi_a_kocicce_080.html",
+    "povidani_o_pejskovi_a_kocicce_081.html",
+    "povidani_o_pejskovi_a_kocicce_082.html",
+    "povidani_o_pejskovi_a_kocicce_083.html",
+    "povidani_o_pejskovi_a_kocicce_084.html",
+    "povidani_o_pejskovi_a_kocicce_085.html",
+    "povidani_o_pejskovi_a_kocicce_086.html",
+    "povidani_o_pejskovi_a_kocicce_087.html",
+    "povidani_o_pejskovi_a_kocicce_088.html",
+    "povidani_o_pejskovi_a_kocicce_089.html",
+    "povidani_o_pejskovi_a_kocicce_090.html",
+    "povidani_o_pejskovi_a_kocicce_091.html",
+    "povidani_o_pejskovi_a_kocicce_092.html",
+    "povidani_o_pejskovi_a_kocicce_093.html",
+    "povidani_o_pejskovi_a_kocicce_094.html",
+    "povidani_o_pejskovi_a_kocicce_095.html",
+    "povidani_o_pejskovi_a_kocicce_096.html",
+    "povidani_o_pejskovi_a_kocicce_097.html",
+    "povidani_o_pejskovi_a_kocicce_098.html",
+    "povidani_o_pejskovi_a_kocicce_099.html",
+    "povidani_o_pejskovi_a_kocicce_100.html",
+    "povidani_o_pejskovi_a_kocicce_101.html",
+    "povidani_o_pejskovi_a_kocicce_102.html",
+    "povidani_o_pejskovi_a_kocicce_103.html",
+    "povidani_o_pejskovi_a_kocicce_104.html",
+    "povidani_o_pejskovi_a_kocicce_105.html",
+    "povidani_o_pejskovi_a_kocicce_106.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:02:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396163502
+    "date": "Thu May 12 2022 10:37:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351831349
   },
   "documents": [
     {
-      "title": "Povídání o pejskovi a kočičce",
-      "file": "povidani_o_pejskovi_a_kocicce_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +132,7 @@
       "order": 0,
       "prev": null,
       "next": "povidani_o_pejskovi_a_kocicce_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Povídání o pejskovi a kočičce",
@@ -42,7 +142,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "povidani_o_pejskovi_a_kocicce_002.html",
+      "prev": "promo.html",
       "next": "povidani_o_pejskovi_a_kocicce_006.html",
       "toc": [
         {
@@ -55,7 +155,7 @@
       ]
     },
     {
-      "title": "Předmluva • Povídání o pejskovi a kočičce",
+      "title": "Předmluva",
       "file": "povidani_o_pejskovi_a_kocicce_006.html",
       "words": 189,
       "chars": 1218,
@@ -75,11 +175,11 @@
       ]
     },
     {
-      "title": "O\npejskovi a kočičce,\njak si myli podlahu • Povídání o pejskovi a kočičce",
+      "title": "O pejskovi a kočičce, jak si myli podlahu",
       "file": "povidani_o_pejskovi_a_kocicce_007.html",
       "words": 136,
-      "chars": 733,
-      "ideas": 5,
+      "chars": 735,
+      "ideas": 3,
       "role": "chapter",
       "order": 3,
       "prev": "povidani_o_pejskovi_a_kocicce_006.html",
@@ -88,7 +188,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O\npejskovi a kočičce,\njak si myli podlahu",
+          "name": "O pejskovi a kočičce, jak si myli podlahu",
           "id": null,
           "children": []
         }
@@ -275,7 +375,7 @@
       ]
     },
     {
-      "title": "Jak si pejsek roztrhl kaťata • Povídání o pejskovi a kočičce",
+      "title": "Jak si pejsek roztrhl kaťata",
       "file": "povidani_o_pejskovi_a_kocicce_017.html",
       "words": 313,
       "chars": 1690,
@@ -495,11 +595,11 @@
       ]
     },
     {
-      "title": "Jak pejsek s kočičkou\nslavili 28. říjen • Povídání o pejskovi a kočičce",
+      "title": "Jak pejsek s kočičkou slavili 28. říjen",
       "file": "povidani_o_pejskovi_a_kocicce_028.html",
       "words": 7,
-      "chars": 38,
-      "ideas": 2,
+      "chars": 39,
+      "ideas": 1,
       "role": "chapter",
       "order": 24,
       "prev": "povidani_o_pejskovi_a_kocicce_027.html",
@@ -508,7 +608,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak pejsek s kočičkou\nslavili 28. říjen",
+          "name": "Jak pejsek s kočičkou slavili 28. říjen",
           "id": null,
           "children": []
         }
@@ -675,7 +775,7 @@
       ]
     },
     {
-      "title": "Jak to bylo na Vánoce • Povídání o pejskovi a kočičce",
+      "title": "Jak to bylo na Vánoce",
       "file": "povidani_o_pejskovi_a_kocicce_037.html",
       "words": 190,
       "chars": 1025,
@@ -855,11 +955,11 @@
       ]
     },
     {
-      "title": "O pejskovi a kočičce,\njak psali psaní děvčatům do Nymburka • Povídání o pejskovi a kočičce",
+      "title": "O pejskovi a kočičce, jak psali psaní děvčatům do Nymburka",
       "file": "povidani_o_pejskovi_a_kocicce_046.html",
       "words": 131,
-      "chars": 675,
-      "ideas": 4,
+      "chars": 676,
+      "ideas": 3,
       "role": "chapter",
       "order": 42,
       "prev": "povidani_o_pejskovi_a_kocicce_045.html",
@@ -868,7 +968,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O pejskovi a kočičce,\njak psali psaní děvčatům do Nymburka",
+          "name": "O pejskovi a kočičce, jak psali psaní děvčatům do Nymburka",
           "id": null,
           "children": []
         }
@@ -1035,7 +1135,7 @@
       ]
     },
     {
-      "title": "O pyšné noční košilce • Povídání o pejskovi a kočičce",
+      "title": "O pyšné noční košilce",
       "file": "povidani_o_pejskovi_a_kocicce_055.html",
       "words": 305,
       "chars": 1646,
@@ -1255,7 +1355,7 @@
       ]
     },
     {
-      "title": "O klucích z Domažlic • Povídání o pejskovi a kočičce",
+      "title": "O klucích z Domažlic",
       "file": "povidani_o_pejskovi_a_kocicce_066.html",
       "words": 254,
       "chars": 1394,
@@ -1435,11 +1535,11 @@
       ]
     },
     {
-      "title": "Jak si pejsek s kočičkou\ndělali k svátku dort • Povídání o pejskovi a kočičce",
+      "title": "Jak si pejsek s kočičkou dělali k svátku dort",
       "file": "povidani_o_pejskovi_a_kocicce_075.html",
       "words": 112,
-      "chars": 629,
-      "ideas": 5,
+      "chars": 630,
+      "ideas": 4,
       "role": "chapter",
       "order": 71,
       "prev": "povidani_o_pejskovi_a_kocicce_074.html",
@@ -1448,7 +1548,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak si pejsek s kočičkou\ndělali k svátku dort",
+          "name": "Jak si pejsek s kočičkou dělali k svátku dort",
           "id": null,
           "children": []
         }
@@ -1655,11 +1755,11 @@
       ]
     },
     {
-      "title": "Jak našli panenku,\nkterá tence plakala • Povídání o pejskovi a kočičce",
+      "title": "Jak našli panenku, která tence plakala",
       "file": "povidani_o_pejskovi_a_kocicce_086.html",
       "words": 409,
-      "chars": 2276,
-      "ideas": 16,
+      "chars": 2277,
+      "ideas": 15,
       "role": "chapter",
       "order": 82,
       "prev": "povidani_o_pejskovi_a_kocicce_085.html",
@@ -1668,7 +1768,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak našli panenku,\nkterá tence plakala",
+          "name": "Jak našli panenku, která tence plakala",
           "id": null,
           "children": []
         }
@@ -1835,11 +1935,11 @@
       ]
     },
     {
-      "title": "Jak hráli divadlo\na na Mikuláše co bylo • Povídání o pejskovi a kočičce",
+      "title": "Jak hráli divadlo a na Mikuláše co bylo",
       "file": "povidani_o_pejskovi_a_kocicce_095.html",
       "words": 100,
-      "chars": 521,
-      "ideas": 6,
+      "chars": 522,
+      "ideas": 5,
       "role": "chapter",
       "order": 91,
       "prev": "povidani_o_pejskovi_a_kocicce_094.html",
@@ -1848,7 +1948,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak hráli divadlo\na na Mikuláše co bylo",
+          "name": "Jak hráli divadlo a na Mikuláše co bylo",
           "id": null,
           "children": []
         }
@@ -2015,7 +2115,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Povídání o pejskovi a kočičce",
+      "title": "Ediční poznámka",
       "file": "povidani_o_pejskovi_a_kocicce_104.html",
       "words": 33,
       "chars": 252,
@@ -2035,11 +2135,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nJosefa Čapka v datech • Povídání o pejskovi a kočičce",
+      "title": "Život a doba spisovatele Josefa Čapka v datech",
       "file": "povidani_o_pejskovi_a_kocicce_105.html",
       "words": 319,
-      "chars": 2070,
-      "ideas": 26,
+      "chars": 2072,
+      "ideas": 24,
       "role": "chapter",
       "order": 101,
       "prev": "povidani_o_pejskovi_a_kocicce_104.html",
@@ -2048,18 +2148,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nJosefa Čapka v datech",
+          "name": "Život a doba spisovatele Josefa Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Josefa Čapka • Povídání o pejskovi a kočičce",
+      "title": "První vydání knih Josefa Čapka",
       "file": "povidani_o_pejskovi_a_kocicce_106.html",
       "words": 136,
-      "chars": 759,
-      "ideas": 38,
+      "chars": 760,
+      "ideas": 37,
       "role": "chapter",
       "order": 102,
       "prev": "povidani_o_pejskovi_a_kocicce_105.html",
@@ -2068,18 +2168,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Josefa Čapka",
+          "name": "První vydání knih Josefa Čapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tiráž • Povídání o pejskovi a kočičce",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 169,
-      "chars": 1094,
-      "ideas": 26,
+      "words": 129,
+      "chars": 842,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "povidani_o_pejskovi_a_kocicce_106.html",
@@ -2097,14 +2197,14 @@
   ],
   "totals": {
     "all": {
-      "words": 12609,
-      "chars": 70139,
-      "ideas": 426
+      "words": 12569,
+      "chars": 69897,
+      "ideas": 405
     },
     "chapters": {
       "words": 12431,
-      "chars": 68994,
-      "ideas": 396
+      "chars": 69004,
+      "ideas": 386
     }
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Ale chutnalo to nějak nedobře. Zatím přišla kočička a slyší, že pejsek nějak divně prská. Podívá se na něj a vidí, že pejsek má plnou hubu pěny a z očí mu tekly slzy. „I propána!“ křičela kočička, „co se to, pejsku, s tebou děje? Vždyť ty jsi nějaký nemocný?! Vždyť ti kape z huby pěna! Co to s tebou je?“ – „Ale,“ povídá pejsek, „našel jsem tu něco na stole a myslil jsem, že je to nějaký sýr nebo nějaké cukroví, tak jsem to sněd. Ale ono to strašně štípe a dělá se mně z toho v hubě pěna.“

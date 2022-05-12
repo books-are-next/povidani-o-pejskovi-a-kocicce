@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Poslouchej, pejsku,“ povídá kočička, „máme tu nějak špinavou podlahu.“ – „Taky se mně zdá, že už je nějak moc špinavá,“ povídá pejsek, „jenom se koukni, jak mám od té špinavé podlahy umazané tlapky.“ – „Tuze špinavé je máš,“ povídala kočička, „fuj, to je hanba! Musíme tu podlahu umýt. To přece lidé nemají takovou špinavou podlahu. Ti ji někdy myjí.“

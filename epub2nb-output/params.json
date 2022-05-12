@@ -48,7 +48,7 @@
             "filename": "povidani_o_pejskovi_a_kocicce_002.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1022,7 +1022,7 @@
       "identifier": "0c5a8574-dc6e-4eae-bc4b-2ea79d680e80",
       "author": "Josef Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T22:01:46.165Z"
+      "modified": "2018-01-12T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1062,7 +1062,7 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_006.html"
       },
       {
-        "titleSuggest": "O\npejskovi a kočičce,\njak si myli podlahu",
+        "titleSuggest": "O pejskovi a kočičce, jak si myli podlahu",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_007.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_007.html"
@@ -1188,7 +1188,7 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_027.html"
       },
       {
-        "titleSuggest": "Jak pejsek s kočičkou\nslavili 28. říjen",
+        "titleSuggest": "Jak pejsek s kočičkou slavili 28\\. říjen",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_028.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_028.html"
@@ -1296,7 +1296,7 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_045.html"
       },
       {
-        "titleSuggest": "O pejskovi a kočičce,\njak psali psaní děvčatům do Nymburka",
+        "titleSuggest": "O pejskovi a kočičce, jak psali psaní děvčatům do Nymburka",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_046.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_046.html"
@@ -1470,7 +1470,7 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_074.html"
       },
       {
-        "titleSuggest": "Jak si pejsek s kočičkou\ndělali k svátku dort",
+        "titleSuggest": "Jak si pejsek s kočičkou dělali k svátku dort",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_075.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_075.html"
@@ -1536,7 +1536,7 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_085.html"
       },
       {
-        "titleSuggest": "Jak našli panenku,\nkterá tence plakala",
+        "titleSuggest": "Jak našli panenku, která tence plakala",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_086.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_086.html"
@@ -1590,7 +1590,7 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_094.html"
       },
       {
-        "titleSuggest": "Jak hráli divadlo\na na Mikuláše co bylo",
+        "titleSuggest": "Jak hráli divadlo a na Mikuláše co bylo",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_095.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_095.html"
@@ -1650,13 +1650,13 @@
         "xhtml": "povidani_o_pejskovi_a_kocicce_104.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nJosefa Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Josefa Čapka v datech",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_105.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_105.html"
       },
       {
-        "titleSuggest": "První\nvydání knih Josefa Čapka",
+        "titleSuggest": "První vydání knih Josefa Čapka",
         "subtitleSuggest": "",
         "filename": "povidani_o_pejskovi_a_kocicce_106.md",
         "xhtml": "povidani_o_pejskovi_a_kocicce_106.html"
@@ -1930,6 +1930,6 @@
       "user": "books-are-next",
       "repo": "povidani-o-pejskovi-a-kocicce"
     },
-    "generatedAt": 1638396106878
+    "generatedAt": 1652351342099
   }
 }

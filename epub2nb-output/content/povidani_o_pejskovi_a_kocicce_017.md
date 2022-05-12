@@ -1,5 +1,6 @@
 ---
 title: Jak si pejsek roztrhl kaťata
+contentType: prose
 ---
 
 Když ještě pejsek a kočička spolu hospodařili (však jsme o tom tuhle vypravovali, jak si šikovně umyli podlahu a jak se potom oba na slunci sušili) a měli ještě svůj domeček a vedli si v něm své hospodářství, byla jednou velikonoční neděle, a tak si řekli, že půjdou spolu na výlet. Sluníčko pěkně svítilo. „Půjdeme třeba do lesa,“ povídá pejsek, „kampak jinam bychom šli, když je tak hezky?“

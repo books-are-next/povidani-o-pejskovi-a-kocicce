@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „To bude od toho, jak jsem vlítnul za tím zajícem do trní,“ bědoval pejsek. „To je ostuda, takhle roztrhané katě, zrovna na velikonoční neděli. Kdybychom to aspoň mohli spravit. Nemáš s sebou nit?“

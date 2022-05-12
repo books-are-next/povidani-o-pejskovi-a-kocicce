@@ -1,7 +1,6 @@
 ---
-title: |-
-  První
-  vydání knih Josefa Čapka
+title: První vydání knih Josefa Čapka
+contentType: prose
 ---
 
 **1911**

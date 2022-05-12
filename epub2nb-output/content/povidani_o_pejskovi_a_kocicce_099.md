@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 A teď kočička vzala škatuli, to byl jako kufříček, a dělala, jako že jede automobilem a že odjela. Pejsek zůstal královsky sedět a pil jako to kafíčko a pořád říkal, že se na tu princeznu, na tu dcerušku, moc těší.

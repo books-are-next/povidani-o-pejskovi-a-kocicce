@@ -1,7 +1,6 @@
 ---
-title: |-
-  Jak hráli divadlo
-  a na Mikuláše co bylo
+title: Jak hráli divadlo a na Mikuláše co bylo
+contentType: prose
 ---
 
 Pejsek s kočičkou si chtěli venku zahrát s dětmi, ale žádné děti venku nebyly.

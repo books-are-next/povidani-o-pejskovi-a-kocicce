@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Tak si s těmi holčičkami hrála a měly z toho takovou zábavu a legraci, že nadělaly při tom tolik pokřiku, smíchu, výskání, kvikotu a všelijakého rámusu, že až v nebi museli okna zavírat, aby ti nejmenší andělíčkové mohli spát.

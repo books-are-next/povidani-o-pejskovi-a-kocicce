@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Víš, pejsku, já si z toho nic nedělám, že nám ten zlý pes snědl ten dort,“ řekla kočička, „třeba by nám po tom našem dortu také bylo špatně a svátek a narozeniny bychom měli zkažené.“

@@ -1,8 +1,6 @@
 ---
-title: |-
-  Život
-  a doba spisovatele
-  Josefa Čapka v datech
+title: Život a doba spisovatele Josefa Čapka v datech
+contentType: prose
 ---
 
 **1887**

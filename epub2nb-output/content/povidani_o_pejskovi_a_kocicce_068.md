@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „To jistěže jsou,“ řekla kočička. „To máte zrovna tak jako s koťaty nebo se štěňaty: jedno je bělejší, druhé mourovatější, třetí černé, čtvrté třeba rezavé nebo strakaté, ale rozpustilé jsou všechny stejně.“
