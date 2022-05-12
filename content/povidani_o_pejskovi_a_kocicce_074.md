@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A oni vám, když ti kluci jdou, tak pořád při tom nechávají jednu nohu pozadu,“ řekla zas kočička.

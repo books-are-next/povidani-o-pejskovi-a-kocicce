@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Tak to tedy udělali. Kočička zabalila pejska do peřinky a pejsek dělal miminko. Kočička s ním šla ke kupci, koupila tam koberec a pejsek dostal od kupce do pracičky praporeček, udělal taky „ňoňoňoňoňo“ a vesele si s ním mával, když šli domů. „Heč,“ povídal, „já jsem taky dostal pěkný praporeček a zadarmo.“

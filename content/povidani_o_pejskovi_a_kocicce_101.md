@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Víš co,“ řekl pejsek, „to ji musíme zavést někam do lesa, snad se jí někdo ujme.“

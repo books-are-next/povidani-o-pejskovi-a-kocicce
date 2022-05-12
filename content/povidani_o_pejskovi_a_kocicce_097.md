@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Ale Jenda a Věra ve škole nejsou,“ řekla kočička. „Oni mají kašel a rýmu a musejí být doma.“

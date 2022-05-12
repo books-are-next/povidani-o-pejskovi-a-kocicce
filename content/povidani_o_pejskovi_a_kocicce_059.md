@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Tak, o noční košilce, ale musí to s ní nakonec dobře dopadnout,“ poručil si pejsek.

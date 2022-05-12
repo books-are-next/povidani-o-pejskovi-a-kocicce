@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ‚Já jsem smutná,‘ řekla chudá noční košilka, ‚protože jsem potkala krásnou noční košilku, ta byla vyšívaná a měla na sobě všelijaká kolečka, jahůdky, čtverečky a proužečky a ta se mně tak tuze líbila a já jsem si s ní chtěla hrát, ale ona nechtěla, protože jsem chudá a nemám na sobě žádné takové vyšívání, jako měla ona.‘

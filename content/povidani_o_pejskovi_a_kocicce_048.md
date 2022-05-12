@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Víš co,“ řekl pejsek, „zůstaneme celý den v posteli a budeme si hrát v posteli.“

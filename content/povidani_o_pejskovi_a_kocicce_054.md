@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Abychom šli do Nymburka, že by se nás nymburská děvčata ujala, že by se o nás nymburské školačky postaraly a daly nám nějaký nocleh? Co si počneme, domeček pryč a do Nymburka je tak daleko! Ach, ach, když já ten náš domeček nikde nevidím!“

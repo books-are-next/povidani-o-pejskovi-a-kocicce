@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Já nevím,“ povídala kočička, když se pejsek podepsal, „myslím, že ses podepsal špatně. Psát se přece musí jemnou řečí, a tak se mně zdá, jako se nemá psát černej nebo zelenej, štěkavej, že se asi v jemné řeči nemá také psát pejsek.“

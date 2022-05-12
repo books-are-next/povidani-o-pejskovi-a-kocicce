@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Kočička se dívá a vidí, že pejsek má katě zase celé rozpárané. „Vždyť to byl provázek na zašití kalhot,“ řekla slepici, „a vy jste nám ho, kmotra, snědla. Čím pak teďka zašijeme pejskovi kalhoty?“

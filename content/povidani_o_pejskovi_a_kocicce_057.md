@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Tak si tomu tedy říkej, jak chceš, ale já se ti musím smát, až to povím dětem, tak se ti budou smát taky,“ řekla kočička a položila pejska na polštář.

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Pejsek s kočičkou slíbili, že myši vychytají a že v komoře nic nesmlsají. Švadlena je zavedla do komory. Myši se lekly pejska a kočičky a zalezly do svých děr. „Však já je dostanu ven,“ šeptala kočička. „Postav se, pejsku, doprostřed komory a dělej tam ‚Tancuj, tancuj, vykrúcaj‘ a já pak obstarám to ostatní.“

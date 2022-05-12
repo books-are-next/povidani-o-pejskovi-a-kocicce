@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Mně se to líbí, když jsou lidé šťastní a veselí,“ řekla kočička; „když vidím spokojené a veselé lidi, tu mám chuť sama od sebe dovádět.“

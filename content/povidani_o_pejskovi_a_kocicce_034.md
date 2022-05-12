@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A to ano, to ano,“ radovala se kočka, „to bude hezké, aspoň se jednou ponesu!“

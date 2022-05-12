@@ -1,5 +1,6 @@
 ---
 title: Předmluva
+contentType: prose
 ---
 
 Na soudobé karikatuře O. Mrkvičky, publikované v roce 1937 u příležitosti 50. narozenin Josefa Čapka, je oslavenec obdařen dvěma tvářemi a dvěma páry rukou, ve kterých drží na straně jedné paletu a štětec a horlivě maluje, na straně druhé pero a papír a soustředěně píše. Kresba vystihuje píli a nasazení, s jakými Josef Čapek tvořil. Na poli výtvarném po sobě zanechal množství maleb, kreseb, ilustrací, knižních obálek a grafik, jevištní výtvarné návrhy atd. Neúnavná byla i jeho činnost ve světě psaného slova – publicistika pro Lidové noviny, práce z teorie výtvarného umění a v neposlední řadě dílo literární, které nyní čtenářům předkládáme.

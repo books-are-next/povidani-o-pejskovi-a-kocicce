@@ -1,5 +1,6 @@
 ---
 title: O klucích z Domažlic
+contentType: prose
 ---
 
 Pejsek s kočičkou seděli na pohovce a vymýšleli si, co by měli dělat, aby se pobavili a dobře se měli. Někdo zaklepal, oni řekli „dále“ a vešel pan Čapek.

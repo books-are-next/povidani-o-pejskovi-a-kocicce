@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Ale ta bohatá noční košilka byla pyšná.

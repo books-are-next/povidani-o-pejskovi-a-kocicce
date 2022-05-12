@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 A tak si vzali Jenda s Věrou na sebe bílé zástěry a sukně a Jenda si udělal z vaty bílé vousy, aby byl Mikuláš, a z papíru vysokou čepici a šli. Čerta s sebou neměli, že by se ho pejsek s kočičkou příliš lekli.

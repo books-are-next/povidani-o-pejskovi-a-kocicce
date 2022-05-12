@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Tak se pejsek s kočičkou sebrali a šli dát radu panu Čapkovi, který nevěděl, co o nich na ty Vánoce dětem napsat. „Já už vím,“ povídá pejsek cestou, „já už vím, co mu poradím! Řeknu mu, aby napsal povídání o tom, že ty jsi zakletá princezna a já že jsem zakletý princ.“ – „Jakýpak zakletý princ,“ smála se mu kočička, „když máš blechy! To princové nemají, kdopak ti tohle bude věřit, princové nemají blechy, ty mají jen psi.“ – „Však ty taky nejsi žádná zakletá princezna,“ řekl pejsek, „však jsem zrovna tuhle viděl, že jsi se drbala.“ – „Proč bych se nedrbala,“ řekla kočka, „když mě to štípalo! Ale kdybych chtěla, mohla bych třeba panu Čapkovi říci, že já jsem zakletá princezna a ty blechy že jsou zakleté komorné.“ – „A já bych mohl říci,“ chlubil se pejsek, „že ty moje blechy, to že jsou zakletí rytíři a že jich mám celé vojsko.“ – „Nu, víš, pejsku, tohle nebudeme povídat,“ usoudila kočka, „ten pan Čapek by nám to ještě možná uvěřil, ale ty děti by to jistě nevěřily a řekly by, že to špatně napsal. Poradíme mu raději něco šikovnějšího, co by nám bylo dobré, když si s námi dětičky chtějí hrát. To víš, někdy to bývá trápení, jak nás ty dětičky tahají. Tak ať něco o tom pan Čapek dětem napíše a my z toho budeme mít užitek.“ – „Ba, to je pravda,“ řekl pejsek, „od některých dětí jsem zkusil moc, až jsem raději utek.“

@@ -1,5 +1,6 @@
 ---
 title: O pyšné noční košilce
+contentType: prose
 ---
 
 Považte, děti, co se pejskovi jednou stalo!

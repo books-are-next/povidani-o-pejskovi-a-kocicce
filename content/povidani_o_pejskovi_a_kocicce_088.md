@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Proč tak pláčeš, malá panenko?“ ptali se jí pejsek s kočičkou.

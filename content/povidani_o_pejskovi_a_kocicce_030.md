@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „A poslouchej, pejsku,“ řekla kočička, „a co to vlastně je, ten 28. říjen?“

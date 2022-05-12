@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Jak tak šli, dešťovka se ze svého leknutí vzpamatovala. „Já přece nejsem žádný provázek, já jsem dešťovka,“ pomyslila si a začala se potichu z těch katí pomalu soukat ven. Šlo to těžko, protože kočička prošila dešťovkou díru křížem krážem, ale konečně se jí to přece podařilo a vyvlíkla se polehounku až do půl ven. „Tak prosím, že jsem dešťovka,“ řekla, „to teprve bude vidět, až vylezu celá ven.“

@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „Jemine,“ tak se divil a radoval, „to bude mít ta naše panenka hraček!“ Donesl to všechno domů a kočička byla překvapená, co toho je. „Bože, co ty děti toho tak rozházejí a poztrácejí!“ spráskla pacičkama a řekla: „To já se také ještě půjdu podívat. To víš, pejsku, já umím proslídit a prosmejčit všecko, kam ani ty nevlezeš. A jistě toho také dost najdu.“

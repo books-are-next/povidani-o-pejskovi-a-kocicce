@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Vzali mouku, mlíčko a vajíčko a míchali to dohromady. „Dort musí být sladký,“ řekla kočička a nasypala do toho cukr. „A trochu slaný taky,“ řekl pejsek a dal tam sůl. „A teď tam dáme máslo a zavařeninu,“ řekla kočička. „Zavařeninu, tu ne, tu já nerad,“ povídal pejsek, „dáme tam místo zavařeniny syreček, ten já tuze rád.“ Tak tam dali několik syrečků. „Mně se zdá, že je málo mastný,“ řekla kočička, „musíme tam dát několik špekových kůží.“ – „A oříšky, abychom nezapomněli,“ řekl pejsek a nasypal tam kornout oříšků. „Oříšky jsou dobré,“ schválila to kočička, „ale měla by tam jistě také přijít okurka,“ a dala tam okurku. „A kosti,“ volal pejsek, „musíme tam přece dát nějaké kosti!“ Tak do toho dortu dali hodně kostí. „A přece nějakou myš, myši já tak tuze ráda!“ vzpomněla si kočička a dala do dortu čtyři myši. „Tak, a teď několik buřtů hodně pepřovatých, to je něco pro mne,“ řekl pejsek a dal tam několik buřtů. „A to hlavní!“ povídala kočička, „přece šlehanou smetanu tam musíme dát!“ Dali tam plný hrnec smetany. „A trochu cibule,“ řekl pejsek a dal tam cibuli. „A čokoládu,“ řekla kočička a přidala do toho čokoládu. „A omáčku!“ napadlo pejskovi, i dali tam omáčku.

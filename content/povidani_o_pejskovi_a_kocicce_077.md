@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 Pejsek s kočičkou si dort vzali, dělali nad ním „Ňamňamňam, je dobrý, ten se vám povedl,“ a dělali, jako by ho jedli. „Děkujeme vám,“ řekli dětem, „takovýhle dort jsme jakživi nejedli.“ Děti z toho měly radost a šly domů.

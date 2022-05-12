@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 „To bude,“ řekla kočička; „musíme o tom přemýšlet.“ Tak o tom pejsek s kočičkou přemýšleli, jak by přišli k nějakým hračkám pro tu panenku. Žádné neměli, udělat hračky, to přece neuměli, to ani děti nedovedou, tak jak by to měli umět pejskové a kočičky, a ukrást potají nějaké hračky dětem, když si děti hrají, to ne, to by náš pejsek a kočička nikdy neudělali!
