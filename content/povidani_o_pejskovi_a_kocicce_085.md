@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Víš, pejsku, já si z toho nic nedělám, že nám ten zlý pes snědl ten dort,“ řekla kočička, „třeba by nám po tom našem dortu také bylo špatně a svátek a narozeniny bychom měli zkažené.“
 
 „To je pravda,“ řekl pejsek, „jen ať naříká a heká, ten zlý pes, patří mu to, ale já mám hlad, tuze bych jedl, ať je to, co je! Ale my doma docela nic k jídlu nemáme, všechno jsme dali do toho dortu. A já na svůj svátek bych přece jen nechtěl mít hlad.“
@@ -16,3 +18,5 @@ Kočičce a pejskovi to tuze chutnalo. Poděkovali dětem za oběd a šli spokoj
 Došli domů a ten veliký zlý pes tam ještě v houští hekal a naříkal. Oni šli po tom dobrém obědě spát a libovali si, jak se jim ten svátek a narozeniny přece jen nakonec vydařily.
 
 A ten zlý pes po tom jejich dortu hekal a naříkal v tom houští ještě celých čtrnáct dní.
+
+</section>

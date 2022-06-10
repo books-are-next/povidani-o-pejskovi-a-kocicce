@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Ale Jenda a Věra ve škole nejsou,“ řekla kočička. „Oni mají kašel a rýmu a musejí být doma.“
 
 „Jenda a Věra?“ podivil se pejsek. „To jsou hodné děti, ty mám zrovna rád. Víš co, kočičko, půjdeme k nim na návštěvu a nějak je potěšíme, když nemohou jít ven.“
@@ -30,3 +32,5 @@ Tak si uvázali na krk zástěry, aby měli královské pláště s vlečkou, a 
 „Jsem králem zlaté země a stříbrné země a diamantové země za desíti horami, za desíti řekami a za mořem modrým, žlutým i zeleným, ale nemáme žádnou dceru, žádnou královskou princeznu, a králové mají mít dcery princezny, a proto jsem smutný.“
 
 „Já ti, králi, něco poradím,“ řekla kočička. „Já vím o jedné královské dceři. Je to v bílé zemi, daleko, až za černou zemí, tak já tam pojedu automobilem a tu dceru tam pro nás koupím.“
+
+</section>

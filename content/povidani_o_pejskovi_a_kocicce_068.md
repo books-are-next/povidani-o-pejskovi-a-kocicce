@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „To jistěže jsou,“ řekla kočička. „To máte zrovna tak jako s koťaty nebo se štěňaty: jedno je bělejší, druhé mourovatější, třetí černé, čtvrté třeba rezavé nebo strakaté, ale rozpustilé jsou všechny stejně.“
 
 „To je pravda,“ zaradoval se pan Čapek. „Tak já tedy napíšu, že domažličtí kluci jsou jeden bělejší, druhý mourovatější, některý že je černý a jiný třeba zrzavý, že mají na packách drápky a že jsou všichni stejně rozpustilí.“
@@ -40,3 +42,5 @@ osmetarče osmeher
 Tahle říkanka se kočičce ještě více líbila než ta první, kterou říkali kluci, když se odpočítávali na honěnou. A na schovávanou, to si kočička ze všeho nejraději hrála; nikdo to tak dobře neuměl, jako ona to dovedla, schovat se tak šikovně, aby ji nikdo nenašel.
 
 „A co bych si nehrála,“ řekla si kočička, „když si pejsek taky hraje! Holky, nechte mne také hrát si na schovávanou!“ zavolala na holčičky a holčičky ji vzaly mezi sebe a kočička si s nimi hrála na schovávanou. Ó jéj, holky, ta vám to uměla! Jak ona se vám dovedla schovat! Skrčila se někde, že z ní ani ocásek nebylo vidět, všude vlezla, všude se provlekla, a ještě se vám, darebnice, po těch holčičkách šelmovsky koukala, jak ji nadarmo hledají. Kdepak s kočkou by se mohl někdo v schovávání měřit!
+
+</section>

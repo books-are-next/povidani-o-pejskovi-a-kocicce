@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Tak, o noční košilce, ale musí to s ní nakonec dobře dopadnout,“ poručil si pejsek.
 
 „Tak tedy o noční košilce,“ řekla kočička a začala vypravovat:
@@ -12,3 +14,5 @@ contentType: prose
 ‚Jéjej, to je krásná košilka!‘ vykřikla ta chudá noční košilka. Ona ta druhá noční košilka byla bohatá a byla krásně barevná a měla na sobě vyšívané čtverečky, proužečky a všelijaká kolečka a všecko možné, jak moc byla zdobená.
 
 ‚Ach košilko, ty jsi tak krásná, ty se mně tak tuze líbíš,‘ řekla ta chudá noční košilka té bohaté noční košilce, ‚pojď si se mnou hrát!‘
+
+</section>

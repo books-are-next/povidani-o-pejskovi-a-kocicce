@@ -3,6 +3,8 @@ title: O pyšné noční košilce
 contentType: prose
 ---
 
+<section>
+
 Považte, děti, co se pejskovi jednou stalo!
 
 Hopsal, skákal, hrál si s kočičkou na louce, váleli sudy, dělali kotrmelce a všelijaké jiné komedie a přitom si někde vrazil do pacičky ostrý střep. Byl to malý střep, ale hodně to bolelo a nemohl na tu nožičku dobře došlápnout.
@@ -20,3 +22,5 @@ Doma kočička pejskovi tlapičku pofoukala a vymyla a zavázala, aby ho ta bol�
 „Ale kdepak!“ řekla kočička, „to si to pleteš. Přece vřes se dává do vázy, a ne vřed. Hihihi, kdopak by si dával do vázy vřed! To se přece nedělá, to ne, to ne!“
 
 „Ty si to pleteš!“ hádal se pejsek. „Z bolístky se někdy udělá vřes a u lesa roste vřed. Tak je to!“
+
+</section>

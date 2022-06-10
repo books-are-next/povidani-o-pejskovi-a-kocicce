@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Jakpak bychom mohli!“ řekla kočička, „vždyť už bude hnedle tma a do Domažlic je daleko. Pojď domů, však jsme beztak nikam nedošli; jen jsme udělali pár kroků a už jsme se zastavili u těch dětí a začali jsme si s nimi hrát. Já ti, když vidím někde hrát si na schovávanou, tak kdyby bylo co bylo, musím si hrát taky.“
 
 „To já zas na honěnou,“ řekl pejsek. „Ale co řekneme panu Čapkovi?“
@@ -38,3 +40,5 @@ contentType: prose
 „A tělíčko mají podlouhlé a na jednom konci mají hlavu a na druhém nohy,“ řekla kočička.
 
 „A co byste tomu řekl: ty nohy jim jdou až po zem!“ povídal zas pejsek.
+
+</section>

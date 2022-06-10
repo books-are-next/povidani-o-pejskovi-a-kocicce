@@ -3,6 +3,8 @@ title: Jak si pejsek roztrhl kaťata
 contentType: prose
 ---
 
+<section>
+
 Když ještě pejsek a kočička spolu hospodařili (však jsme o tom tuhle vypravovali, jak si šikovně umyli podlahu a jak se potom oba na slunci sušili) a měli ještě svůj domeček a vedli si v něm své hospodářství, byla jednou velikonoční neděle, a tak si řekli, že půjdou spolu na výlet. Sluníčko pěkně svítilo. „Půjdeme třeba do lesa,“ povídá pejsek, „kampak jinam bychom šli, když je tak hezky?“
 
 „I třebas do lesa,“ řekla kočička. „Jenom škoda, že nemám žádný slunečník, když sluníčko tak krásně svítí. Dělala bych s ním v lese parádu. To jistě ještě nikdo neviděl kočičku s parapletem.“
@@ -16,3 +18,5 @@ Pejsek si narovnal uši a šli. Cestou si vykládali, co budou v lese dělat. Ž
 Co tak šli, koukal se na ně z křoví zajíc. „Hehe,“ začal se posmívat, „ten pejsek má jedno ucho nahoru a druhé nakřivo! Takhle,“ a udělal to po pejskovi. Bylo to pravda. Pejsek si nedal na uši pozor a měl každé jinak. „Koukej, on se ti posmívá!“ řekla kočička. Pejsek se na zajíce rozzlobil a rozběhl se za ním do křoví. Ale zajíc utekl a byl už dávno pryč.
 
 „Ono v tom křoví bylo moc trní,“ řekl pejsek, „ale kdybych byl chtěl, byl bych ho dohonil.“
+
+</section>

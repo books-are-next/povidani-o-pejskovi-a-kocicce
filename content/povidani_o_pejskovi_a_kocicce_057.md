@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Tak si tomu tedy říkej, jak chceš, ale já se ti musím smát, až to povím dětem, tak se ti budou smát taky,“ řekla kočička a položila pejska na polštář.
 
 Pejsek seděl na polštáři s tlapičkou zavázanou a čekal, až se mu na ní udělá ten vřes.
@@ -18,3 +20,5 @@ Pejsek seděl na polštáři s tlapičkou zavázanou a čekal, až se mu na ní 
 „Nějakou hezkou,“ žádal pejsek. „Povídej, povídej!“
 
 „Chtěl bys o noční košilce?“ ptala se kočička.
+
+</section>

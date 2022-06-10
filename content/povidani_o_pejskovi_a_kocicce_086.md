@@ -3,6 +3,8 @@ title: Jak našli panenku, která tence plakala
 contentType: prose
 ---
 
+<section>
+
 Jednou celý den pršelo, všude bylo mokro a studeno a pejsek s kočičkou nemohli ven a neměli co dělat. A tak si povídali.
 
 „Víš, kočičko,“ řekl pejsek, „my bychom také měli mít nějaké hračky, jako mají děti. Když takhle prší, měli bychom si aspoň s čím hrát.“
@@ -30,3 +32,5 @@ Když se probudili, svítilo už krásně sluníčko a ani trochu už nepršelo.
 „Anebo třeba nějaká zlomená květinka,“ řekla kočička.
 
 I hledali a hledali a koukali se dokola, odkud to tak tence pláče. A teď viděli, co to plakalo tak jemně a tenounce. Docela v koutě ve vysoké trávě – a ta tráva byla po dešti ještě mokrá – ležela pod kopřivami malá panenka. Nějaké dítě tam tu malou panenku ztratilo nebo pohodilo a panenka tam ležela už několik dní, napršelo tam na ni, až měla šatečky celé mokré, hlavičku měla trochu natlučenou a měla hlad a trochu kašel a bála se tam tak sama.
+
+</section>

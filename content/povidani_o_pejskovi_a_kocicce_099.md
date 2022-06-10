@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 A teď kočička vzala škatuli, to byl jako kufříček, a dělala, jako že jede automobilem a že odjela. Pejsek zůstal královsky sedět a pil jako to kafíčko a pořád říkal, že se na tu princeznu, na tu dcerušku, moc těší.
 
 Kočička dala do škatule panenku, udělala: „Tutututú!“ a přijela. „Tady jsem, pejsku, přivezla tu dcerušku, tu princeznu, sto korun jsem za ni musela dát.“
@@ -18,3 +20,5 @@ Sundali si královské pláště, kočička si uvázala na hlavu šátek a pejse
 „Teď už nejsem král a kočička královna,“ ohlásil pejsek dětem, „my jsme teď zchudli.“
 
 „Tak už nejsi král a já královna,“ začala povídat kočička. „Teď jsme zchudli a ty jsi chudý chalupník a já chudá chalupnice. Co budu vařit, milý muži, když ani chleba nemáme? A co budeme dělat s naší dcerou, když ji nemůžeme uživit?“
+
+</section>
