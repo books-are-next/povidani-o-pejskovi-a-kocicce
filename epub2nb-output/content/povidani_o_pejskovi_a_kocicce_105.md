@@ -3,6 +3,8 @@ title: Život a doba spisovatele Josefa Čapka v datech
 contentType: prose
 ---
 
+<section>
+
 **1887**
 
 Narozen 28. března v Hronově. Otec MUDr. Antonín Čapek (1855–1929), matka Božena, rozená Novotná (1866–1924). Sourozenci: Helena (1886–1961), provdaná Koželuhová, ovdověla, od roku 1930 provdaná Palivcová; Karel (1890–1938), ženatý od roku 1935 s Olgou Scheinpflugovou.
@@ -48,3 +50,5 @@ Patří k zakládajícím členům výtvarně umělecké skupiny Tvrdošíjní.
 25\. února je převezen do tábora v Bergen-Belsenu. Zde umírá na skvrnitý tyfus. Přesné datum smrti ani skutečné místo posledního odpočinku Josefa Čapka neznáme, jeho symbolický hrob se nachází na Vyšehradském hřbitově v Praze.
 
 Vzhledem k tomu, že se tělesné ostatky Josefa Čapka nikdy nenašly, probíhalo řízení o prohlášení za mrtvého, na jehož konci bylo roku 1948 stanoveno úřední datum úmrtí na 30. dubna 1947.
+
+</section>

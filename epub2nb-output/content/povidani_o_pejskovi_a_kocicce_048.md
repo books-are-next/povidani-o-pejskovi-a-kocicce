@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Víš co,“ řekl pejsek, „zůstaneme celý den v posteli a budeme si hrát v posteli.“
 
 „To nejde,“ povídala kočka. „Nejsme přece nemocní, abychom byli celý den v posteli! A krom toho jsme dostali psaníčko od nymburských děvčat a už jsme jim dávno měli odepsat. Ještě o nás řeknou, že jsme špatně vychovaní a že nevíme, co se sluší a patří. Alou! pěkně vstávat a napíšeme jim to psaní; beztak nemáme dnes co jiného na práci.“
@@ -52,3 +54,5 @@ fámeiu vas
 fuctě
 
 k očička a pejsek
+
+</section>

@@ -3,6 +3,8 @@ title: O klucích z Domažlic
 contentType: prose
 ---
 
+<section>
+
 Pejsek s kočičkou seděli na pohovce a vymýšleli si, co by měli dělat, aby se pobavili a dobře se měli. Někdo zaklepal, oni řekli „dále“ a vešel pan Čapek.
 
 „I heleďme,“ řekl pejsek, „vás už jsme dávno neviděli. To vy asi ani nevíte, že mě tuhle bolela noha. Šlápl jsem totiž na střep a poranil jsem si tlapičku.“
@@ -26,3 +28,5 @@ Pozdravují Vás kluci z II. A z Domažlic.“
 „Ale jemine!“ zvolal pan Čapek, „jakpak mohu o těch domažlických klucích něco napsat, když je neznám a když jsem je jakživ neviděl?“
 
 „I co,“ řekl pejsek, „kluci jako kluci, oni jsou všude stejní.“
+
+</section>

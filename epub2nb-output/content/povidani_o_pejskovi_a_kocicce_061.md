@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ale ta bohatá noční košilka byla pyšná.
 
 ‚Nepůjdu!‘ řekla, ‚ty na sobě nemáš žádné proužečky, ani žádná kolečka a nic, s tebou já si nebudu hrát!‘ To řekla a šla pyšně dál.“
@@ -14,3 +16,5 @@ Ale ta bohatá noční košilka byla pyšná.
 „To měla z toho, že byla pyšná!“ řekl pejsek, „a teď zas povídej dál!“
 
 „No tak teda,“ povídala kočička dál, „tu chudou noční košilku to trápilo a byla z toho smutná. Šla domů, sedla si na postýlku a byla pořád ještě z toho smutná, jak si ta pyšná noční košilka s ní nechtěla hrát. A tu k ní přišel takový andělíček a povídá jí: ‚Proč jsi tak smutná, košilko?‘
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Proč tak pláčeš, malá panenko?“ ptali se jí pejsek s kočičkou.
 
 A panenka řekla: „Já pláču, protože mně je líto, že mne moje holčička tady tak pohodila, ztratila a zapomněla a že mám hlad a že se mně tu stýská tak samotné.“
@@ -20,3 +22,5 @@ Pejsek s kočičkou chodili po špičkách kolem, aby panenku neprobudili, a tě
 „To budeme,“ řekl pejsek, „a budeme se o ni o mnoho lépe starat než ta její nehodná maminka, než ta nepořádná holčička, co tu panenku tak pohodila! Ta panenka se bude divit a bude se jí to líbit, jak se bude u nás mít dobře. My, panečku, ji nikde takhle nepohodíme!“
 
 „A budeme ji držet pěkně čisťounkou,“ řekla kočička. „To víš, my kočičky se pořád myjeme a češeme, to já si už u ní vezmu na starost. Ale oho, pejsku, na něco jsme zapomněli! Vždyť my pro ni nemáme žádné hračky a ona si přece bude chtít s něčím hrát. A kde my pro ni nějaké hračky vezmeme, když žádné nemáme?“ „Hm, to nemáme,“ řekl pejsek, „s hračkami to bude u nás těžká věc.“
+
+</section>

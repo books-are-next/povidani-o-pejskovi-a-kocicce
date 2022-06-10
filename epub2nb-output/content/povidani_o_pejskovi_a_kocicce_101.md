@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „Víš co,“ řekl pejsek, „to ji musíme zavést někam do lesa, snad se jí někdo ujme.“
 
 Vzali panenku a vedli ji jako někam do lesa a přitom dělali, že pláčou. „My ji přece nezavedeme do lesa, třeba by ji tam sežral vlk,“ řekl pejsek. „Jestli potkáme nějaké hodné lidi, tak jim ji prodáme, třeba by mohli nějakou dcerušku potřebovat.“
@@ -28,3 +30,5 @@ Děti měly panáčka v červených a modrých šatech, ten, řekly, bude princ,
 Tak si pejsek s kočičkou zahráli s dětmi na divadlo a za týden už byly děti docela zdravé a směly ven. To bylo zrovna svatého Mikuláše.
 
 A Jenda řekl Věře: „Poslouchej, Věrko, musíme se tomu pejskovi a kočičce nějak odvděčit, že nám přišli zahrát divadlo, když jsme byli nemocni. Víš co, já se ustrojím za Mikuláše a ty za anděla a půjdeme tak k pejskovi a kočičce a něco jim přineseme.“
+
+</section>
