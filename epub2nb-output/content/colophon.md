@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 **Josef Čapek**  
 **Povídání o pejskovi a kočičce,**  
 **jak spolu hospodařili a ještě o všelijakých jiných věcech**  
@@ -11,8 +10,11 @@ Obálka Alena Kubíková
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Povídání o pejskovi a kočičce, jak spolu hospodařili a ještě o všelijakých jiných věcech](https://search.mlp.cz/cz/titul/povidani-o-pejskovi-a-kocicce-jak-spolu-hospodarili-a-jeste-o-vselijakych-jinych-vecech/3813571/) tak, jak bylo vydáno nakladatelstvím Triáda v roce 2012. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
