@@ -13,6 +13,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - povidani_o_pejskovi_a_kocicce_005.html

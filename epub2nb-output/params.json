@@ -9,7 +9,8 @@
       "subtitle": ",jak spolu hospodařili a ještě o všelijakých jiných věcech",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -1930,6 +1931,6 @@
       "user": "books-are-next",
       "repo": "povidani-o-pejskovi-a-kocicce"
     },
-    "generatedAt": 1655271622127
+    "generatedAt": 1655364281496
   }
 }
