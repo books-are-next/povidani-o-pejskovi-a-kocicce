@@ -58,7 +58,7 @@
             "filename": "povidani_o_pejskovi_a_kocicce_003.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -67,7 +67,7 @@
             "filename": "povidani_o_pejskovi_a_kocicce_004.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1008,7 +1008,7 @@
             "filename": "povidani_o_pejskovi_a_kocicce_107.md",
             "xhtml": "povidani_o_pejskovi_a_kocicce_107.html",
             "id": 106,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1931,6 +1931,6 @@
       "user": "books-are-next",
       "repo": "povidani-o-pejskovi-a-kocicce"
     },
-    "generatedAt": 1655979423511
+    "generatedAt": 1657182328903
   }
 }

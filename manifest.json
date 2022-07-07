@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidani-o-pejskovi-a-kocicce-ad55622",
-  "revision": "ad55622",
+  "identifier": "capek-povidani-o-pejskovi-a-kocicce-a2e9bfe",
+  "revision": "a2e9bfe",
   "readingOrder": [
     "promo.html",
     "povidani_o_pejskovi_a_kocicce_005.html",
@@ -115,11 +115,11 @@
     "povidani_o_pejskovi_a_kocicce_104.html",
     "povidani_o_pejskovi_a_kocicce_105.html",
     "povidani_o_pejskovi_a_kocicce_106.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:21:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979716326
+    "date": "Thu Jul 07 2022 08:36:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183018347
   },
   "documents": [
     {
@@ -188,7 +188,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O pejskovi a kočičce, jak si myli podlahu",
+          "name": "O pejskovi a kočičce, jak si myli podlahu",
           "id": null,
           "children": []
         }
@@ -388,7 +388,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak si pejsek roztrhl kaťata",
+          "name": "Jak si pejsek roztrhl kaťata",
           "id": null,
           "children": []
         }
@@ -608,7 +608,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak pejsek s kočičkou slavili 28. říjen",
+          "name": "Jak pejsek s kočičkou slavili 28. říjen",
           "id": null,
           "children": []
         }
@@ -788,7 +788,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak to bylo na Vánoce",
+          "name": "Jak to bylo na Vánoce",
           "id": null,
           "children": []
         }
@@ -968,7 +968,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O pejskovi a kočičce, jak psali psaní děvčatům do Nymburka",
+          "name": "O pejskovi a kočičce, jak psali psaní děvčatům do Nymburka",
           "id": null,
           "children": []
         }
@@ -1368,7 +1368,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O klucích z Domažlic",
+          "name": "O klucích z Domažlic",
           "id": null,
           "children": []
         }
@@ -1548,7 +1548,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak si pejsek s kočičkou dělali k svátku dort",
+          "name": "Jak si pejsek s kočičkou dělali k svátku dort",
           "id": null,
           "children": []
         }
@@ -1948,7 +1948,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak hráli divadlo a na Mikuláše co bylo",
+          "name": "Jak hráli divadlo a na Mikuláše co bylo",
           "id": null,
           "children": []
         }
@@ -2148,7 +2148,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Josefa Čapka v datech",
+          "name": "Život a doba spisovatele Josefa Čapka v datech",
           "id": null,
           "children": []
         }
@@ -2163,7 +2163,7 @@
       "role": "chapter",
       "order": 102,
       "prev": "povidani_o_pejskovi_a_kocicce_105.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2176,11 +2176,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 148,
-      "chars": 977,
+      "chars": 976,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "povidani_o_pejskovi_a_kocicce_106.html",
       "next": null,
@@ -2197,8 +2197,8 @@
   ],
   "totals": {
     "all": {
-      "words": 13495,
-      "chars": 74693,
+      "words": 13493,
+      "chars": 74702,
       "ideas": 456
     },
     "chapters": {
