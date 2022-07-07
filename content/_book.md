@@ -118,7 +118,7 @@ readingOrder:
   - povidani_o_pejskovi_a_kocicce_104.html
   - povidani_o_pejskovi_a_kocicce_105.html
   - povidani_o_pejskovi_a_kocicce_106.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
